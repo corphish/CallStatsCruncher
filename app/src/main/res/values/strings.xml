@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Call Stats Cruncher</string>
+    <string name="top_contact">Top contact in last 24 hours</string>
+</resources>
